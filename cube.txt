@@ -1,0 +1,32 @@
+角块对
+	边块色错 (RU2R'U)2F'U'F
+	边块顶层
+角块色错
+	边块顶层侧面对齐 -- 角向边转，顶向底色变化方向转
+		边R底色F RU'R'URU'R'
+		边R底色R RUR'URUR'
+		边F底色F F'U'FU'F'U'F
+		边F底色R F'UFUF'UF
+	边块对
+		底色F RUR'U' RU2R'U' RUR'
+		底色R RU'R'U RU2R'U  RU'R'
+	边块色错
+		底色F RU'RUBU'B'R2
+		底色R F'UFU'L'ULF2
+角块在上，底色在上
+	边块对   (RUR'U')2RUR'
+	边块色错 RU'R'F'U2F
+	边块在上，顶色与角块右边色一致
+		F RUR'U2RUR'U'RUR'
+		R RU2R'U'RUR'
+		L RU'R'U2RUR'
+		B URU2R'URU'R'
+	边块在上，顶色与角块前色一致
+		F L'U2LUL'U'L
+		R L'U'LU2L'U'LUL'U'L
+		L U'L'U2LU'L'UL
+		B L'ULU2L'U'L
+		
+角块在上，底色不在上
+
+
